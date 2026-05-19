@@ -17,6 +17,7 @@ A smart, Finite State Machine (FSM)-based traffic management system designed usi
 The project logic was fully simulated and verified online via **EDA Playground** using the **Icarus Verilog** simulator.
 
 ### Verified Simulation Output Waveform:
+<img width="1917" height="756" alt="image" src="https://github.com/user-attachments/assets/c65cd355-b7c6-4bad-ad26-18b0c0f0f238" />
 
 
 ## Verification Environment
@@ -24,4 +25,3 @@ The project logic was fully simulated and verified online via **EDA Playground**
 - **Language:** Verilog HDL
 - **Simulation Engine:** Icarus Verilog
 - **Waveform Viewer:** EPWave
--
