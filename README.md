@@ -1,4 +1,3 @@
-
 # Traffic Light Controller with Emergency Override
 
 A smart, Finite State Machine (FSM)-based traffic management system designed using Verilog HDL. This hardware logic prioritizes emergency vehicle lanes while maintaining an efficient cycle for regular traffic.
